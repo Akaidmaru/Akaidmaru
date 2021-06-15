@@ -10,7 +10,7 @@ Also i'm a Pixel artist, trying to improve my art and also thinking to start wit
 - 📫 How to reach me: https://www.instagram.com/akaidmarupx/ , https://twitter.com/AkaidmaruPx
 - ⚡ Fun fact: I know How much wood could a woodchuck chuck if a woodchuck could chuck wood! and i love to read!
 
-[![Akaidmaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaidmaru&show_icons=true&theme=radical))](https://github.com/akaidmaru/github-readme-stats)
+[![Akaidmaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaidmaru&show_icons=true&theme=radical))]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaidmaru)](https://github.com/akaidmaru/github-readme-stats)
 
