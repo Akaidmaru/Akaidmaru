@@ -9,7 +9,7 @@ Also i'm a Pixel artist, trying to improve my art and also thinking to start wit
 - 👯 I’m looking to collaborate on some Videogame or Software.
 - 💬 Ask me about Python, Pixel Art, Game Design, Mechanical Engineering and Salsa & Casino.
 - ⚡ Fun fact: I know How much wood could a woodchuck chuck if a woodchuck could chuck wood! and i love to read!
-- 📫 How to reach me: <a href="https://www.instagram.com/akaidmarupx/"><img src="https://github.com/Akaidmaru/Akaidmaru/blob/main/Icons/instagram.png" width="24px"></a>&nbsp , https://twitter.com/AkaidmaruPx
+- 📫 How to reach me: <a href="https://www.instagram.com/akaidmarupx/"><img src="https://github.com/Akaidmaru/Akaidmaru/blob/main/Icons/instagram.png" width="24px"></a>, <a href="https://twitter.com/AkaidmaruPx"><img src="https://github.com/Akaidmaru/Akaidmaru/blob/main/Icons/twitter.png" width="24px">
 
 
 ----
