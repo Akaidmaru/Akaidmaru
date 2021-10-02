@@ -13,6 +13,6 @@ Also i'm a Pixel artist, trying to improve my art and also thinking to start wit
 
 
 ----
-
-![Akaidmaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaidmaru&show_icons=true&theme=radical&count_private=true))
+![trophy](https://github-profile-trophy.vercel.app/?username=akaidmaru&theme=darkhub)
+![Akaidmaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaidmaru&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaidmaru)
