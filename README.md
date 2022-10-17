@@ -14,6 +14,4 @@ Also i'm a Pixel artist, trying to improve my art and also thinking to start wit
 
 ----
 ![trophy](https://github-profile-trophy.vercel.app/?username=akaidmaru&theme=darkhub)
-![Akaidmaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaidmaru&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaidmaru)
-<a href="https://app.daily.dev/Akaidmaru"><img src="https://api.daily.dev/devcards/ba903a88ea65456ca26738fd0d8880bf.png?r=zaw" width="400" alt="Reddmar J. Quevedo C.'s Dev Card"/></a>
+<a href="https://app.daily.dev/Akaidmaru"><img src="https://api.daily.dev/devcards/ba903a88ea65456ca26738fd0d8880bf.png?r=p3g" width="400" alt="Reddmar J. Quevedo C.'s Dev Card"/></a>
