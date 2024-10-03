@@ -4,7 +4,7 @@ My name is Reddmar Quevedo, I'm a Mechanical Engineer studying programming, I'm 
 
 Also i'm a Pixel artist, trying to improve my art and also thinking to start with more complex drawings.
 
-- 🔭 I’m currently working on some code to get a better undestanding of Python.
+- 🔭 I’m currently working on some code to get a better undestanding of Java + Spring Boot, JS + NestJS, TS.
 - 👯 I’m looking to collaborate on some Videogame or Software.
 - 💬 Ask me about Programming, Pixel Art, Game Design, Mechanical Engineering and Salsa & Casino.
 - ⚡ Fun fact: I know How much wood could a woodchuck chuck if a woodchuck could chuck wood! and I love to read!
