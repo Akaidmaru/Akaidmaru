@@ -20,7 +20,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new web app using Java, React and Tailwind**
-- 🌱 I'm currently learning: **📚 Improving my Cloud Services, DevOps**
+- 🌱 I'm currently learning: **📚 Improving my Cloud Services, DevOps and Backend skills**
 - 💬 Ask me about: **💡 Java, Python, DevOps, React and RESTful APIs**
 
 - 👯 I’m looking to collaborate on some Videogame or Software.
